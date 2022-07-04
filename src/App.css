@@ -12,3 +12,16 @@
     display: flex;
     justify-content: center;
 }
+
+.Win{
+    border: 10px solid green;
+    color: green;
+}
+.Draw{
+    border: 10px solid black;
+    color: black;
+}
+.Lose{
+    border: 10px solid red;
+    color: red;
+}
